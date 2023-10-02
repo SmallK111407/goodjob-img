@@ -5,7 +5,7 @@
 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。
 
 此仓库图片可以通过[云溪院](https://gitee.com/yunxiyuan/README.md)api接口调用: <br>
-`https://yxy-api.yize.site/api/gaffe/index.php`
+`https://yunxiyuan.xyz/api/gaffe/index.php`
 
 本项目对应插件:**Useless-Plugin**[Github](https://github.com/SmallK111407/useless-plugin) | [Gitee](https://gitee.com/SmallK111407/useless-plugin)
 
