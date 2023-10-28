@@ -17,7 +17,7 @@ _🔥 HOT 🔥_
 此仓库图片可以通过[云溪院](https://gitee.com/yunxiyuan/README.md)api接口调用: <br>
 `https://yunxiyuan.xyz/api/gaffe/index.php`
 
-本项目对应插件:**Useless-Plugin**[Github](https://github.com/SmallK111407/useless-plugin) | [Gitee](https://gitee.com/SmallK111407/useless-plugin)
+本项目对应插件:[Useless-Plugin](../../../../SmallK111407/useless-plugin)
 
 ## 如何贡献？
 
