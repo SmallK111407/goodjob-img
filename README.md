@@ -15,7 +15,7 @@ _🔥 HOT 🔥_
 用于存储云崽圈子一些人不寻常、逆天、乐子、搞笑、有趣等等的发言。
 
 此仓库图片可以通过[云溪院](https://gitee.com/yunxiyuan/gaffe/blob/master/README.md)api接口调用: <br>
-`https://yunxiyuan.xyz/api/gaffe/index.php`
+`https://api.yunxiyuanyxy.xyz/gaffe/gitee/index.php`
 
 本项目对应插件:[Useless-Plugin](../../../../SmallK111407/useless-plugin)
 
